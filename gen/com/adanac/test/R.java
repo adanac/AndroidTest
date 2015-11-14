@@ -27,7 +27,7 @@ public final class R {
         public static final int press=0x7f020003;
     }
     public static final class id {
-        public static final int action_settings=0x7f08001b;
+        public static final int action_settings=0x7f08001e;
         public static final int biglv=0x7f08000a;
         public static final int btn=0x7f08000c;
         public static final int btnExit=0x7f080003;
@@ -54,6 +54,9 @@ public final class R {
         public static final int rbtn5=0x7f080016;
         public static final int smalllv=0x7f08000b;
         public static final int tbtn3=0x7f08001a;
+        public static final int txt01=0x7f08001b;
+        public static final int txt02=0x7f08001c;
+        public static final int txt03=0x7f08001d;
         public static final int v_btn=0x7f080000;
     }
     public static final class layout {
@@ -66,6 +69,7 @@ public final class R {
         public static final int layout_relativelayout=0x7f030006;
         public static final int layout_tabhost=0x7f030007;
         public static final int layout_tablelayout=0x7f030008;
+        public static final int text_link=0x7f030009;
     }
     public static final class menu {
         public static final int main=0x7f070000;
@@ -73,6 +77,9 @@ public final class R {
     public static final class string {
         public static final int action_settings=0x7f050001;
         public static final int app_name=0x7f050000;
+        public static final int baidu=0x7f050003;
+        public static final int gotoA=0x7f050004;
+        public static final int gotoB=0x7f050005;
         public static final int hello_world=0x7f050002;
     }
     public static final class style {

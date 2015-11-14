@@ -4,5 +4,7 @@
     <string name="app_name">AndroidTest</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+	<string name="baidu"><a href="http://www.baidu.com">百度一下</a></string>
+	<string name="gotoA"><a href="">跳转到另一个Activity</a></string>
+	<string name="gotoB"><a href="http://iadanac.tk">adanac</a></string>
 </resources>
