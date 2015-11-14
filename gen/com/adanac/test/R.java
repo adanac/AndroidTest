@@ -27,7 +27,7 @@ public final class R {
         public static final int press=0x7f020003;
     }
     public static final class id {
-        public static final int action_settings=0x7f08001e;
+        public static final int action_settings=0x7f080020;
         public static final int biglv=0x7f08000a;
         public static final int btn=0x7f08000c;
         public static final int btnExit=0x7f080003;
@@ -38,6 +38,8 @@ public final class R {
         public static final int et=0x7f080018;
         public static final int imageBtn=0x7f080004;
         public static final int listview=0x7f080009;
+        public static final int main_button=0x7f08001e;
+        public static final int main_web=0x7f08001f;
         public static final int mylayouthost=0x7f080019;
         public static final int pb1=0x7f08000e;
         public static final int pb2=0x7f08000f;
@@ -70,6 +72,7 @@ public final class R {
         public static final int layout_tabhost=0x7f030007;
         public static final int layout_tablelayout=0x7f030008;
         public static final int text_link=0x7f030009;
+        public static final int view_webview=0x7f03000a;
     }
     public static final class menu {
         public static final int main=0x7f070000;
