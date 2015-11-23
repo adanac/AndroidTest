@@ -9,7 +9,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.adanac.test.event.FirstBtnActivity;
+import com.adanac.test.event.IntentActivity;
 
 public class MainActivity extends Activity {
 	private Button btn;
@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
 				Toast.makeText(MainActivity.this, "»¶Ó­", Toast.LENGTH_SHORT)
 						.show();
 				startActivity(new Intent(MainActivity.this,
-						FirstBtnActivity.class));
+						IntentActivity.class));
 			}
 		});
 	}

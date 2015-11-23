@@ -17,7 +17,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.adanac.test.view.WebViewActivity"
+            android:name="com.adanac.test.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,9 +25,6 @@
             </intent-filter>
         </activity>
         
-        <activity 
-            android:name="com.adanac.test.MainActivity"
-            android:label="@string/app_name"></activity>
         
         <activity
             android:name="com.adanac.test.layout.LayoutActivity"
@@ -61,7 +58,13 @@
          <activity 
             android:name="com.adanac.test.event.SecondBtnActivity"
             android:label="@string/app_name"></activity>
+        <activity 
+            android:name="com.adanac.test.event.SetContentViewActivity"
+            android:label="@string/app_name"></activity>
         
+        <activity android:name="com.adanac.test.event.IntentActivity"
+            android:label="@string/app_name"></activity>
+        <activity android:name="com.adanac.test.event.MyIntentActivity"></activity>
     </application>
 
 </manifest>
